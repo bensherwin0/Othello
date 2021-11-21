@@ -1,4 +1,4 @@
-class Game {
+class Game { // test comment
 
   int [][] board; //[row][col]
   int currPlayer; //1 or 2 = red or blue, 0 = empty
